@@ -1,0 +1,32 @@
+{
+  "repository": "JustJao1/doc-intelligence",
+  "snapshot": "f1d28ae6cb3587d729c0a04825e3f78da6f4c645",
+  "scope": "Histórico alcançável a partir do commit preservado, tal como retornado pela API GitHub; datas e autorias são metadados Git, não certificação jurídica.",
+  "complete": true,
+  "entries": [
+    {
+      "commit": "f1d28ae6cb3587d729c0a04825e3f78da6f4c645",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:27:51Z",
+      "committer_date": "2026-11-27T00:27:51Z",
+      "subject": "Use project-specific browser tab icon",
+      "signature_verified": false
+    },
+    {
+      "commit": "ce535204dc43f1d60f2368ca05295ab49167cbaa",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:06:29Z",
+      "committer_date": "2026-11-26T18:06:29Z",
+      "subject": "Publish standalone source and verification workflow",
+      "signature_verified": false
+    },
+    {
+      "commit": "21b119e125cc7191edd3aa3c0113c61531993f12",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:03:26Z",
+      "committer_date": "2026-11-26T18:03:26Z",
+      "subject": "Initialize project documentation",
+      "signature_verified": false
+    }
+  ]
+}
